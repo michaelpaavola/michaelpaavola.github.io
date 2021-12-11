@@ -102,15 +102,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Michael Paavola"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Graduate Researcher at the University of Iowa. Iowa Attention and Perception Lab with Dr. Cathleen Moore"
+  location         : "Iowa City, IA, USA"
   email            :
   links:
-    - label: "Email"
+    - label: "Personal Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "paavol.89@gmail.com"
+    - label: "Professional Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "michael-paavola@uiowa.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
